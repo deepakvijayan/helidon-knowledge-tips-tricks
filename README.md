@@ -9,13 +9,13 @@
 
 ### Helidon MP
 
-    * Helidon MP is an Eclipse MicroProfile runtime that allows the Jakarta EE community to run microservices in a portable way.
-    * If you are an experienced programmer already knows Java EE then this is a right choice for you.
-    * Helidon MP is an implementaion of Eclipse microprofile specification(MP v3.2 for Helidon v2.1.0). https://microprofile.io/
-    * In simple word, if you are a programmer belives CDI(Contexts and Dependency Injection) programming style, then choose this. This will be almost identical in terms of dependency injection and the provided container runtime is 
+    1. Helidon MP is an Eclipse MicroProfile runtime that allows the Jakarta EE community to run microservices in a portable way.
+    1. If you are an experienced programmer already knows Java EE then this is a right choice for you.
+    1. Helidon MP is an implementaion of Eclipse microprofile specification(MP v3.2 for Helidon v2.1.0). https://microprofile.io/
+    1. In simple word, if you are a programmer belives CDI(Contexts and Dependency Injection) programming style, then choose this. This will be almost identical in terms of dependency injection and the provided container runtime is 
 
 ### Helidon SE
 
-    * Helidon SE is a compact toolkit that embraces the latest Java SE features: reactive streams, asynchrous and functional programming, and fluent-style APIs.
-    * If you like the functional style coding for your programs, this is a right choice.
-    * This is a light weight code
+    1. Helidon SE is a compact toolkit that embraces the latest Java SE features: reactive streams, asynchrous and functional programming, and fluent-style APIs.
+    1. If you like the functional style coding for your programs, this is a right choice.
+    1. This SE module has very small code foot print
