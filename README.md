@@ -4,8 +4,8 @@
 
 ### The original page and github repo for Helidon
 
-    Main source: https://helidon.io/#/ 
-    Helidon Github: https://github.com/oracle/helidon
+    Official website : https://helidon.io/#/ 
+    Helidon Github   : https://github.com/oracle/helidon
 
 ### Helidon MP
 
